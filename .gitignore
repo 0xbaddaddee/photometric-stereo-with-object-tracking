@@ -1,0 +1,11 @@
+.idea/*
+*.iml
+*.xml
+*.xlsx
+*.pptx
+output/*/
+debug/*
+*.ply
+*.npy
+combining positions and normals/*
+rendered_image.jpg
